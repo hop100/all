@@ -111,7 +111,7 @@ async function doJb() {
       load_bin(bin_u8);
     }
 
-    msgs.innerHTML ='<span style="color: #10e610;">GoldHEN Berhasil Dimuat ...</span>';
+    msgs.innerHTML ='<span style="color: #10e610;">ENG/MOHAB ESAM  ...</span>';
     logger.info("===END===");
   } catch (e) {
     msgs.innerHTML = "Gagal Memuat! Mulai Ulang Konsol Anda ...";
