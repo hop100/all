@@ -1831,7 +1831,7 @@ function runPayload(PLfile) {
 kexploit().then(() => {
 	setTimeout(() => {
 		runPayload("./goldhen_2.4b18.12.bin");
-		msgs.innerHTML ='<span style="color: #10e610;">GoldHEN Berhasil Dimuat ...</span>';
+		msgs.innerHTML ='<span style="color: #10e610;">ENG/ MOHAB ESAM ...</span>';
 	},500);
 }).catch(() => {
     msgs.innerHTML = "Gagal Memuat! Mulai Ulang Konsol Anda ...";
