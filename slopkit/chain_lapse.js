@@ -36,7 +36,7 @@ const lines = [];
 function hostOk() {
     var m = document.getElementById("msgs");
     if (m) {
-        m.innerHTML ='<span style="color: #10e610;">GoldHEN Berhasil Dimuat ...</span>';
+        m.innerHTML ='<span style="color: #10e610;">ENG/MOHAB ESAM ...</span>';
     }
 }
 
