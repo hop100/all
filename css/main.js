@@ -53,7 +53,7 @@ async function doJb() {
     }
 
     if (fn.setuid.invoke(0) !== -1) {
-      msgs.innerHTML ='<span style="color: #10e610;">GoldHEN Sudah Dimuat ...</span>';
+      msgs.innerHTML ='<span style="color: #10e610;">ENG/MOHAB ESAM ...</span>';
       return;
     }
 
